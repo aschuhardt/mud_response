@@ -1,0 +1,7 @@
+[package]
+name = "mud_response"
+version = "0.1.0"
+authors = ["Addison Schuhardt <a@schuhardt.net>"]
+
+[dependencies]
+rustc-serialize = "0.3"
